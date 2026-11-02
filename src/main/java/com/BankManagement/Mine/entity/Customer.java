@@ -1,4 +1,4 @@
-package com.BankManagement.Mine.Entity;
+package com.BankManagement.Mine.entity;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

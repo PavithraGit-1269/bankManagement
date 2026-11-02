@@ -1,6 +1,6 @@
-package com.BankManagement.Mine.Exceptions;
+package com.BankManagement.Mine.exceptions;
 
-import com.BankManagement.Mine.DTO.ErrorResponseDto;
+import com.BankManagement.Mine.dto.ErrorResponseDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;

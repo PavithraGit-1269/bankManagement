@@ -1,4 +1,4 @@
-package com.BankManagement.Mine.Constants;
+package com.BankManagement.Mine.constants;
 
 public class AccountConstants {
 

@@ -1,4 +1,4 @@
-package com.BankManagement.Mine.DTO;
+package com.BankManagement.Mine.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;

@@ -1,14 +1,14 @@
-package com.BankManagement.Mine.Service;
+package com.BankManagement.Mine.service;
 
-import com.BankManagement.Mine.DTO.CustomerDto;
-import com.BankManagement.Mine.Entity.Accounts;
-import com.BankManagement.Mine.Entity.Customer;
-import com.BankManagement.Mine.Exceptions.CustomerAlreadyExistsException;
-import com.BankManagement.Mine.Exceptions.ResourceNotFoundException;
-import com.BankManagement.Mine.Mapper.AccountMapper;
-import com.BankManagement.Mine.Mapper.CustomerMapper;
-import com.BankManagement.Mine.Repository.AccountsRepo;
-import com.BankManagement.Mine.Repository.CustomerRepo;
+import com.BankManagement.Mine.dto.CustomerDto;
+import com.BankManagement.Mine.entity.Accounts;
+import com.BankManagement.Mine.entity.Customer;
+import com.BankManagement.Mine.exceptions.CustomerAlreadyExistsException;
+import com.BankManagement.Mine.exceptions.ResourceNotFoundException;
+import com.BankManagement.Mine.mapper.AccountMapper;
+import com.BankManagement.Mine.mapper.CustomerMapper;
+import com.BankManagement.Mine.repository.AccountsRepo;
+import com.BankManagement.Mine.repository.CustomerRepo;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

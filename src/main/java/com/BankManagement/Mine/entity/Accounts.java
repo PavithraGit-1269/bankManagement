@@ -1,4 +1,4 @@
-package com.BankManagement.Mine.Entity;
+package com.BankManagement.Mine.entity;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

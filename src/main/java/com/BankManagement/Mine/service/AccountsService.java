@@ -1,6 +1,6 @@
-package com.BankManagement.Mine.Service;
+package com.BankManagement.Mine.service;
 
-import com.BankManagement.Mine.DTO.CustomerDto;
+import com.BankManagement.Mine.dto.CustomerDto;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

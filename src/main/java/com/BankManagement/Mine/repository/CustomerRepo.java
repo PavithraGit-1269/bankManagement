@@ -1,7 +1,6 @@
-package com.BankManagement.Mine.Repository;
+package com.BankManagement.Mine.repository;
 
-import com.BankManagement.Mine.Entity.Accounts;
-import com.BankManagement.Mine.Entity.Customer;
+import com.BankManagement.Mine.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

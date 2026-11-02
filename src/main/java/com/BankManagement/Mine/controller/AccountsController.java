@@ -1,9 +1,9 @@
-package com.BankManagement.Mine.Controller;
+package com.BankManagement.Mine.controller;
 
-import com.BankManagement.Mine.Constants.AccountConstants;
-import com.BankManagement.Mine.DTO.CustomerDto;
-import com.BankManagement.Mine.DTO.ResponseDto;
-import com.BankManagement.Mine.Service.AccountsService;
+import com.BankManagement.Mine.constants.AccountConstants;
+import com.BankManagement.Mine.dto.CustomerDto;
+import com.BankManagement.Mine.dto.ResponseDto;
+import com.BankManagement.Mine.service.AccountsService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

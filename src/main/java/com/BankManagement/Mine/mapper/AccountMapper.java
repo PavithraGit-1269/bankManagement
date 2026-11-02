@@ -1,8 +1,8 @@
-package com.BankManagement.Mine.Mapper;
+package com.BankManagement.Mine.mapper;
 
-import com.BankManagement.Mine.DTO.AccountsDto;
-import com.BankManagement.Mine.DTO.CustomerDto;
-import com.BankManagement.Mine.Entity.Accounts;
+import com.BankManagement.Mine.dto.AccountsDto;
+import com.BankManagement.Mine.dto.CustomerDto;
+import com.BankManagement.Mine.entity.Accounts;
 
 public class AccountMapper{
 public static Accounts customerDtoToAccountEntity(CustomerDto customerDto)

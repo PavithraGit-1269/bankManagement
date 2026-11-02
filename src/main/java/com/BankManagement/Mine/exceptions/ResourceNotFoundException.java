@@ -1,4 +1,4 @@
-package com.BankManagement.Mine.Exceptions;
+package com.BankManagement.Mine.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {
